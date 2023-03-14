@@ -1,3 +1,18 @@
+
+My entry takes 284,000ms (4.8m) for 1000 items.
+
+Estimating for 1,000,000 items:
+
+Putting in some incremental output, I see it taking about a second per rotation.
+
+It should need 499,999,500,000 rotations to finish. That's 15,854 years.
+
+The time it takes to do a rotation should be proportional to the remaining items to sort.
+
+So, they'll average to half a second over the run. 7,927 years to sort 1,000,000 items.
+
+----------
+
 ## [Submission Here](https://forms.gle/eFRiWrimKQRLTCyu5)
 
 > or just fork repo
